@@ -47,7 +47,7 @@ python3 cam-hunter.py
 ### 🔹 One-liner Install & Run:
 
 ```bash
-git clone https://github.com/ADIRTTA/CAM-HUNTER.git && cd CAM-HUNTER && chmod +x * && pip install -r requirements.txt && python3 cam-hunter.py
+git clone https://github.com//CAM-HUNTER.git && cd CAM-HUNTER && chmod +x * && pip install -r requirements.txt && python3 cam-hunter.py
 ```
 
 ---
@@ -74,10 +74,6 @@ pip install requests rich colorama pyfiglet googlesearch-python
 ---
 
 ## 👨‍💻 Author
-
-* **Name:** ADIRTTA
-* **GitHub:** [ADIRTTA](https://github.com/ADIRTTA)
-* **Telegram:** [ADIRTTA](https://www.facebook.com/ADIRTTA)
 
 ---
 
