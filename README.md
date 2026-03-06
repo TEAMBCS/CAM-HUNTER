@@ -40,14 +40,14 @@
 git clone https://github.com/TEAMBCS/CAM-HUNTER.git
 cd CAM-HUNTER
 chmod +x *
-pip install -r requirements.txt
+pip install -r cam-hunter.txt
 python3 cam-hunter.py
 ````
 
 ### 🔹 One-liner Install & Run:
 
 ```bash
-git clone https://github.com/TEAMBCS/CAM-HUNTER.git && cd CAM-HUNTER && chmod +x * && pip install -r requirements.txt && python3 cam-hunter.py
+git clone https://github.com/TEAMBCS/CAM-HUNTER.git && cd CAM-HUNTER && chmod +x * && pip install -r cam-hunter.txt && python3 cam-hunter.py
 ```
 
 ---
@@ -74,7 +74,7 @@ pip install requests rich colorama pyfiglet googlesearch-python
 ---
 
 ## 👨‍💻 Author
-
+* **TEAM BCS**
 ---
 
 ## ⭐ Support
