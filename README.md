@@ -37,7 +37,7 @@
 ### 🔹 Standard Method:
 
 ```bash
-git clone https://github.com/BLACK-ZER-0/CAM-HUNTER.git
+git clone https://github.com/TEAMBCS/CAM-HUNTER.git
 cd CAM-HUNTER
 chmod +x *
 pip install -r requirements.txt
@@ -47,7 +47,7 @@ python3 cam-hunter.py
 ### 🔹 One-liner Install & Run:
 
 ```bash
-git clone https://github.com//CAM-HUNTER.git && cd CAM-HUNTER && chmod +x * && pip install -r requirements.txt && python3 cam-hunter.py
+git clone https://github.com/TEAMBCS/CAM-HUNTER.git && cd CAM-HUNTER && chmod +x * && pip install -r requirements.txt && python3 cam-hunter.py
 ```
 
 ---
@@ -85,7 +85,7 @@ If you find this tool helpful, please consider giving it a ⭐ on GitHub and sha
 
 ## 📚 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **Apache License 2.0**.
 
 ---
 
